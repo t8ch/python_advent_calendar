@@ -15,10 +15,16 @@ The challenges can be done either in databricks or even in the freely available 
 
 Follow the videos below to find out how to set up the respective account:
 
-- [Databricks Video Intro](docs/python_advent_calendar_in_databricks.mp4)  
+- [Databricks Video Intro](https://www.youtube.com/watch?v=GeQAUHd7WcE)  
 You need to have access to a databricks workspace. Either your company already set up one for you or you can do that yourself here: https://docs.databricks.com/getting-started/index.html
 
-- [Google Colab Video Intro](docs/python_advent_calendar_in_colab.mp4)  
-For Google Colab you need a google account and then you can sign in here: https://colab.research.google.com
+- [Google Colab Video Intro](https://www.youtube.com/watch?v=z88_MOyAarY)  
+For Google Colab you need a google account and then you can sign in here: https://colab.research.google.com/
+If you are not really used to git workflows you can open the notebooks one by one as shown in the video above. If you are experienced with the git workflows or want to learn more about them you can clone/fork this repository to your own github and then run the notebooks in colab by visting https://colab.research.google.com/github/ where you find your repositories.
 
 Let us all improve our skills bit by bit, exchange about it and thus be prepared to have a good start into 2021.
+
+### First Door
+
+Christmas preparations started. Find the first challenge under tasks in the file [Task_01_confused_airports.ipynb](tasks/Task_01_confused_airports.ipynb)
+The solution will be provided tomorrow, 2nd of December and the next challenge will be published on the 3rd of December.  
